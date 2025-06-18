@@ -1,7 +1,7 @@
 ![Animated Background](https://i.imgur.com/ECZKmlO.gif)
 
 <h1 align="center" style="font-family: Arial, sans-serif; color: #FF6F61; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-  ALL IN ONE BOT 1.2.2
+  CmdLessBot v1.0.0
 </h1>
 
 <p align="center">
@@ -52,7 +52,7 @@
 <h4>Step 1: Update <code>config.js</code> [ USE ENV FILES ]</h4>
 
 <ol>
-  <li>Open the <code>config.json</code> and add your MongoDB URL.</li>
+  <li>Open the <code>config.js</code> and add your TOKEN.</li>
 </ol>
 
 <h4>ENV SETUP</h4>
