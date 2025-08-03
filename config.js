@@ -1,5 +1,5 @@
 export default {
-  token: "YOUR_BOT_TOKEN_HERE",
+  token: process.env.TOKEN,
   
   lavalink: {
     nodes: [
@@ -43,4 +43,5 @@ export default {
   ],
   
   activityRotationInterval: 30000, 
+
 };
